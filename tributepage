@@ -1,0 +1,59 @@
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Permanent+Marker|Roboto&display=swap" rel="stylesheet">
+
+<main id="main">
+  <h1 id="title">Manong Larry Itliong</h1>
+  <h2>Leader of One of the Nation’s Most Successful Strikes</h2>
+  <figure id="img-div">
+    <img id="image" src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555301007/shape/mentalfloss/larry.jpg" alt="Larry Itliong, sitting in a car with the door open, smoking a cigar." />
+    <figcaption id="img-caption"> Larry Itliong, arriving at AWOC meeting in Central Valley, California, sitting in a car with the door open, smoking a cigar.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">A Timeline of Manong Larry Itliong's Life and Highlights of the Delano Grape Strike</h3>
+    <ul>
+      <li><strong>1913</strong> - Born in Pangasinan, Philippines on October 25 as one of six children of Artemio and Francesca Itliong.</li>
+      <li><strong>1929</strong> - Immigrated to the United States as a laborer and farmhand in several states including Washington, Alaska, Montana, South Dakota, and California.</li>
+      <li><strong>1948</strong> - Involved in a failed asparagus strike in Stockton, California.</li>
+      <li><strong>1953</strong> - Became vice president of the Local 37 of the International Longshoremen’s and Warehouse Workers Union, which was based in Seattle.</li>
+      <li><strong>1957</strong> - He was active in his community outside of the fields, as a member of a local Filipino Masonic organization, as an officer in the Filipino Community Organization of Stockton, and as the president of the Filipino Voters League
+        in Stockton.</li>
+      <li><strong>1959</strong> - His experience as an organizer and his deep ties to the Filipino community may have been what led the newly formed Agricultural Workers Organizing Committee (AWOC) to recruit him as a paid organizer. It was there that he
+        met Dolores Huerta, AWOC’s secretary-treasurer and founder of the Stockton chapter of the Community Service Organization, a Latino civil rights organization. Though Huerta left AWOC shortly after its founding after to join Cesar Chavez’s National
+        Farm Workers Association (NFWA), she and Itliong remained friendly—a link that would later prove key in Delano.</li>
+
+      <li><strong>1965</strong> - grape growers in the Coachella Valley pushed California legislators to revive the recently ended bracero program, citing fears of a labor shortage. With the Filipinos being denied wage equality by the growers with their Mexican
+        counterparts, they turned to AWOC which permitted a strike on September 8, 1965. Itliong nd Dolores Huerta had also continued to communicate after she left AWOC for Chavez’s National Farm Workers Association, and their communication had created
+        a bridge between the two groups. So when Mexican workers began crossing the lines, the Filipino strike leaders knew they needed to reach out to the NFWA.</li>
+      <li><strong>1966</strong> - after a 400-mile march to draw attention to the strike started with 70 farm workers in Delano and ended with more than 10,000 supporters on the steps of the state capitol in Sacramento, leaders decided to merge the two unions,
+        creating the United Farm Workers Organizing Committee (UFWOC).
+
+        <p> As assistant director of the UFWOC, Larry Itliong was Chavez’s second-in-command, and he proved an able right-hand man. He personally answered many of the letters and donations that poured in to support the strike, and traveled with other strikers
+          all over the U.S. to spread the word and ask for support. He also took the lead on organizing a boycott of grapes—now considered one of the largest and most successful boycotts in U.S. history. </p>
+      </li>
+      <li><strong>1969</strong> - The strike and grape boycott lasted five years. In June 1969, grape growers reached out to the United Farm Workers Organizing Committee, indicating that they would consider negotiations.</li>
+      <li><strong>1970</strong> - the strike finally ended. Itliong sat at the table beside Cesar Chavez as the union and growers signed the first contracts. In the wake of the victory, the United Farm Workers worked to ensure better conditions for farm laborers
+        throughout California and beyond. The union created a standard contract that it presented to growers, with the threat of a strike or boycott should growers not accept it. </li>
+      <li><strong>1971</strong> - Itliong left the UFW in October 1971, when he began to question the direction of the union. Before he left the UFW, Itliong had left behind plans for a retirement home. The union took these plans and turned them into Paolo
+        Agbayani Village, named after a farm worker who suffered a heart attack and died on the picket line. When finished—construction was overseen by Cesar Chavez’s brother Richard and included 1000 volunteers from all walks of life—the Agbayani Village
+        had 60 apartments, a communal kitchen serving Filipino meals three times a day, a garden, an arcade, and more.
+        <li><strong>1977</strong> - Larry Itliong died of amyotrophic lateral sclerosis, better known as Lou Gehrig’s disease, in 1977. He was 63.</li>
+        <li><strong>2015</strong> - California Governor Jerry Brown signed a bill declaring October 25 to be Larry Itliong Day in the state of California.</li>
+    </ul>
+    <blockquote cite="https://www.aaldef.org/blog/restoring-larry-itliong-to-his-rightful-place-during-filipino-american-history-month/">
+      <p>
+        "“I have the ability to make that white man know I am just as mean as anybody in this world. I could make him think, and I could make them recognize that I’m a mean son of a bitch in terms of my direction fighting for the rights of Filipinos in this country.
+        Because I feel we are just as good as any of them. I feel we have the same rights as any of them. Because in that Constitution, it said that everybody has equal rights and justice. You’ve got to make that come about. They are not going to give
+        it to you.”"
+      </p>
+      <cite>-- Larry Itliong</cite>
+    </blockquote>
+    <p>
+      Get to know more of this bad-ass Filipino American on his
+      <a id="tribute-link" href="http://mentalfloss.com/article/85669/retrobituaries-larry-itliong-leader-one-nations-most-successful-strikes" target="_blank">Retrobituary</a
+      > at Mental Floss.
+    </p>
+  </section>
+    
+    
+
+</main>
